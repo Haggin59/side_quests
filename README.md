@@ -11,3 +11,7 @@ Random projects that I do rapidly, impulsively. May include failures.
   ![image](https://user-images.githubusercontent.com/72227384/204097476-548e341f-87bf-4be3-8f11-a30ddabd4ab4.png) 
   
 2) Pong:
+    Classic pong using pong
+    <img width="812" alt="Screenshot 2023-01-11 at 5 34 12 PM" src="https://user-images.githubusercontent.com/72227384/211802035-ac6745d9-2e05-4cc7-ba44-0018eca9676a.png">
+
+    bugs here n there
